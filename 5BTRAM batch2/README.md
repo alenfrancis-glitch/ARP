@@ -9,6 +9,7 @@ To construct a simple Local Area Network (LAN) using Cisco Packet Tracer to unde
 The task is to build a simulated network consisting of personal computers and a switch. This network will be used to generate traffic (using the ping command) that initiates the ARP process. The primary objective is to capture and analyze the ARP request and reply mechanism to understand how IP addresses are mapped to physical MAC addresses within a local network. 
 
 3. Scope of the Solution
+   
 This project is confined to a simulated environment using Cisco Packet Tracer. 
 
 The scope includes:
